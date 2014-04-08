@@ -1,7 +1,18 @@
 {
   "sources": {
+    "iis": {
+      "locked_version": "2.1.1",
+      "git": "https://github.com/jsierles/iis",
+      "ref": "f60c85fde3d5afa128af619bc1d1e285920f96b2"
+    },
     "php": {
       "locked_version": "1.4.6"
+    },
+    "windows": {
+      "locked_version": "1.30.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
     },
     "build-essential": {
       "locked_version": "1.4.2"
@@ -20,15 +31,6 @@
     },
     "yum": {
       "locked_version": "3.1.2"
-    },
-    "windows": {
-      "locked_version": "1.30.0"
-    },
-    "chef_handler": {
-      "locked_version": "1.1.4"
-    },
-    "iis": {
-      "locked_version": "2.1.0"
     }
   }
 }

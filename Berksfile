@@ -1,4 +1,3 @@
 site :opscode
 
-cookbook 'iis', git: 'https://github.com/jsierles/iis'
-cookbook 'php'
+cookbook 'php55', git: 'https://github.com/aporat/php55-cookbook'

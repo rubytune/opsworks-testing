@@ -2,8 +2,8 @@
   "sources": {
     "php55": {
       "locked_version": "0.0.2",
-      "git": "https://github.com/aporat/php55-cookbook",
-      "ref": "71f75cc7655325f1c40ff195222b21dd86162acb"
+      "git": "https://github.com/jsierles/php55-cookbook",
+      "ref": "0c96b41ae9e9c80b08e689887907a9f30dc4b8e1"
     },
     "build-essential": {
       "locked_version": "1.4.2"
